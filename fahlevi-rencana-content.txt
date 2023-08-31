@@ -4,6 +4,7 @@ RENCANA CONTENT
   * ES6
   * Framwork Javascript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP franwork
   ^ Laravel
