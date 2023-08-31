@@ -1,6 +1,8 @@
 RENCANA CONTENT 
 
 - Javascript
+  * ES6
+  * Framwork Javascript
 - PHP franwork
 - Interview
 - Vlogs
