@@ -3,7 +3,9 @@ RENCANA CONTENT
 - Javascript
   * ES6
   * Framwork Javascript
-- Struktur Data Dasar
+    ^ Angular
+    ^ React 
 - PHP franwork
+  ^ Laravel
 - Interview
 - Vlogs
